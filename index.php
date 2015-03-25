@@ -13,6 +13,3 @@ switch(ENVIRONMENT)
         break;
 }
 \BCloude\initSys::run();
-
-
-111;
